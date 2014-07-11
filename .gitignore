@@ -3,4 +3,5 @@ output-*
 *.box
 .DS_Store
 packer-templates.sublime-*
-
+signature.pubkey
+*.sha512
